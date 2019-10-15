@@ -1,0 +1,45 @@
+<<<<<<< HEAD
+gitHELP.md
+.gradle
+build/
+!gradle/wrapper/gradle-wrapper.jar
+=======
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+>>>>>>> cheish community
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+<<<<<<< HEAD
+out/
+=======
+>>>>>>> cheish community
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+<<<<<<< HEAD
+=======
+build/
+>>>>>>> cheish community
+
+### VS Code ###
+.vscode/
